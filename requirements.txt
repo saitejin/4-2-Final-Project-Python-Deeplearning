@@ -1,17 +1,15 @@
-(
-echo pandas
-echo numpy
-echo matplotlib
-echo seaborn
-echo scikit-learn
-echo imbalanced-learn
-echo tensorflow==2.13.0
-echo keras
-echo torch
-echo torchvision
-echo optuna
-echo joblib
-echo streamlit
-echo shap
-echo plotly
-) > requirements.txt
+﻿pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+imbalanced-learn
+tensorflow==2.13.0
+keras
+torch
+torchvision
+optuna
+joblib
+streamlit
+shap
+plotly
