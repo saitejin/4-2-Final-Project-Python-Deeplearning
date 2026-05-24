@@ -1,0 +1,17 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+imbalanced-learn
+tensorflow
+keras
+torch
+torchvision
+optuna
+lazypredict
+joblib
+streamlit
+shap
+plotly
+streamlit
