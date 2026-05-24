@@ -14,4 +14,4 @@ joblib
 streamlit
 shap
 plotly
-streamlit
+streamlittensorflow==2.13.0 
